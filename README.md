@@ -49,6 +49,12 @@ AI Agent scrapes trending topics → generates SEO posts → publishes to niche 
 | 3 | 90 | 5,000 | $100 |
 | 6 | 180 | 20,000 | $400 |
 
+## 💝 Support This Project
+
+If this automated affiliate network helps you, consider donating:
+
+👉 **[paypal.me/ulnit](https://paypal.me/ulnit)** — Any amount helps keep 23 AI products running 24/7 on a $35 Pi!
+
 ## Get Started
 
 This is an automated system. The AI agent publishes content daily across all niches.
